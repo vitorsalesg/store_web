@@ -42,18 +42,6 @@ class ProductWidget extends StatelessWidget {
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
             ),
-            Expanded(
-              flex: 1,
-              child: OutlinedButton(
-                onPressed: () {},
-                child: Text("Comprar"),
-                style: OutlinedButton.styleFrom(
-                  side: BorderSide(color: Colors.green, width: 1),
-                  backgroundColor: Colors.white,
-                  primary: Colors.green,
-                ),
-              ),
-            ),
           ],
         ),
       ),
