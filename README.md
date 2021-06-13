@@ -17,7 +17,7 @@
 
 ## 💻 Sobre o projeto
 
-Store Web - É um site com diversos produtos criado totalmente com Flutter onde a tela é ajustada conforme o tamanho do aparelho do usuário. Este projeto foi criado para testar os conceitos de responsividade utilizando widgets do Flutter como o Layout Builder, Wrap, MediaQuery, Orientation Builder.
+Store Web - É um site com diversos produtos onde a tela é ajustada conforme o tamanho do aparelho do usuário. Este projeto foi criado para testar os conceitos de responsividade utilizando widgets do Flutter como o Layout Builder, Wrap, MediaQuery, Orientation Builder.
 
 ---
 
@@ -25,14 +25,9 @@ Store Web - É um site com diversos produtos criado totalmente com Flutter onde 
 ## 🎨 Layout
 
 ### Mobile/Web
-
-<br>
-
-- App em execução
-
-<div  align="center">
-	<img alt="mobile screen" width="250" src="">	
-</div>
+ 
+ <img alt="mobile screen" width="800" src="https://user-images.githubusercontent.com/42179077/121823339-ff864c80-cc7a-11eb-938c-ca28d0c17cf9.gif">	
+ 
 
 
 ---
